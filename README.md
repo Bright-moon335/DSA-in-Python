@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -14,10 +15,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

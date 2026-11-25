@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0523-continuous-subarray-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0713-subarray-product-less-than-k) |

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0238-product-of-array-except-self) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Bright-moon335/DSA-in-Python/tree/master/1314-matrix-block-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Bright-moon335/DSA-in-Python/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
